@@ -1,7 +1,7 @@
 {
   "name": "taskes_22_12_2021",
   "description": "Blank Process",
-  "main": "note_pad.xaml",
+  "main": "ecom_login.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.4]",
     "UiPath.Mail.Activities": "[1.12.3]",
@@ -45,8 +45,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "note_pad.xaml",
-      "uniqueId": "e71d402d-4b57-4f07-9335-082c2951c763",
+      "filePath": "ecom_login.xaml",
+      "uniqueId": "346f63f4-369c-4fdd-a0bb-ab4461864710",
       "input": [],
       "output": []
     }
